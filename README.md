@@ -3,7 +3,7 @@
 
 
 ### Now added a new feature!
-#### When a player creates a faction, it will broadcast a message to the whole server!
+***When a player creates a faction, it will broadcast a message to the whole server!***
 
 
 A fully featured Factions plugin for PMMP PocketMine-MP
