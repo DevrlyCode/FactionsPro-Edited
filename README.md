@@ -1,7 +1,8 @@
 ### General
 #### FactionsPro
-[![Poggit Release](https://poggit.pmmp.io/shield.approved/FactionsPro)](https://poggit.pmmp.io/p/FactionsPro)
 
+### Now added a new feature!
+#### When a player creates a faction, it will broadcast a message to the whole server!
 
 A fully featured Factions plugin for PMMP PocketMine-MP
 
