@@ -3,9 +3,9 @@
 
 
 ### Now added a new feature!
-- 
-- ***When a player creates a faction, it will broadcast a message to the whole server!***
-- 
+-                                                                                         -
+- ***When a player creates a faction, it will broadcast a message to the whole server!*** -
+-                                                                                         -
 ### Features
 
 Easily create, delete, and manage factions
