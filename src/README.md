@@ -1,4 +1,4 @@
-# FactionsPro - Modded
+# FactionsPro - Edited
 ###### Credit and thanks to TETHERED for writing this plugin, and various other teams who contributed other parts of the code. Let me know if you'd like credit, I don't know who you are...
 
 
