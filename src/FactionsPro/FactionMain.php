@@ -449,8 +449,8 @@ class FactionMain extends PluginBase implements Listener {
             $nameTag = $this->purechat->getNametag($p, $levelName);
             $p->setNameTag($nameTag);
         } else {
-            $p->setNameTag(TextFormat::ITALIC . TextFormat::GOLD . "<$f> " .
-                TextFormat::ITALIC . TextFormat::YELLOW . "<$playername>");
+            $p->setNameTag(TextFormat::ITALIC . TextFormat::GREEN . "<$f> " .
+                TextFormat::ITALIC . TextFormat::GRAY . "<$playername>");
         }
     }
 
